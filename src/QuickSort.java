@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 public class QuickSort {
-
     public static void main(String args[]){
         int[] numbers = {2,1,2,7,10,3,5};
         sort(numbers , 0 ,numbers.length-1);
