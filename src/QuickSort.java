@@ -12,7 +12,7 @@ public class QuickSort {
         if(start >= end) return;
 
         int pivot = start;
-        int i = start+1;
+        int i = start + 1;
         int j = end;
 
         while(i <= j){
